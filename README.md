@@ -32,6 +32,12 @@
 $ npm install
 ```
 
+## Arquive TypeORM
+
+# Important
+change the **ormconfig.example.json** file
+to **ormconfig.json**
+
 ## Running the app
 
 ```bash
